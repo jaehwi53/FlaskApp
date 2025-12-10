@@ -1,4 +1,4 @@
-import pytext
+import pytest
 from app import app
 
 def test_root_route():
